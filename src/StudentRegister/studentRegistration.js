@@ -57,8 +57,9 @@ const StudentRegistration = () => {
 
   const subjects = [
     { text: "Odia", value: "odia" },
-    { text: "Sanskrit", value: "sanskrit" },
-    { text: "English", value: "english" },
+    { text: "Maths", value: "math" },
+    { text: "Science", value: "science" },
+    { text: "Ethics", value: "ethics" },
   ];
 
   const openStudentModal = () => {
